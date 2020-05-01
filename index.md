@@ -107,6 +107,7 @@
 2. [肖战事件始末](https://www.zhihu.com/question/391363389/answer/1188260990)
 
 
-[^AO3]: AO3官方网站： <https://archiveofourown.org/>
-<br/>
-[^dq]: 肖战团队道歉声明：<https://weibo.com/6643123988/IwDgIFF6u>
+[^AO3]:AO3官方网站：<https://archiveofourown.org/>
+
+[^dq]:肖战团队道歉声明：<https://weibo.com/6643123988/IwDgIFF6u>
+
